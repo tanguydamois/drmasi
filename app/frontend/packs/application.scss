@@ -1,10 +1,5 @@
-h1 {
-  color: Grey;
-}
-
-main {
- background-color: black;
-}
-
 // Import Bootstrap v5
 @import "~bootstrap/scss/bootstrap";
+
+//base
+@import "index";
